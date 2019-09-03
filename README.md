@@ -1,4 +1,4 @@
-# peexoo-test
+# pexoo
 
 ## Project setup
 ```
